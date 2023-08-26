@@ -11,10 +11,11 @@ Director and actor contributions to movie success
 Seasonal patterns in movie releases and viewership
 
 ## Key Features
-* Data Cleaning and Preprocessing: The dataset is thoroughly cleaned and preprocessed to ensure accuracy and consistency in analysis results. Missing values, outliers, and inconsistencies are addressed to maintain data integrity.
+* **Data Cleaning and Preprocessing:** The dataset is thoroughly cleaned and preprocessed to ensure accuracy and consistency in analysis results. Missing values, outliers, and inconsistencies are addressed to maintain data integrity.
 
-* Exploratory Data Analysis (EDA): Through Python's powerful data analysis libraries, we perform exploratory analysis to unveil initial insights. EDA includes data visualization, summary statistics, and correlation analysis.
+* **Exploratory Data Analysis (EDA):** Through Python's powerful data analysis libraries, we perform exploratory analysis to unveil initial insights. EDA includes data visualization, summary statistics, and correlation analysis.
 
-* Visualization: Python's data visualization libraries are extensively employed to create meaningful visual representations of the data. Graphs, charts, and plots are designed to present key findings effectively.
+* **Visualization:** Python's data visualization libraries are extensively employed to create meaningful visual representations of the data. Graphs, charts, and plots are designed to present key findings effectively.
 
-* Statistical Analysis: Statistical methods are applied to extract quantitative insights from the data. This includes hypothesis testing, regression analysis, and other statistical techniques.
+* **Statistical Analysis:** Statistical methods are applied to extract quantitative insights from the data. This includes hypothesis testing, regression analysis, and other statistical techniques.
+
